@@ -8,4 +8,4 @@ driver.o: calculator.h driver.cpp
 	g++ -c driver.cpp
 
 clean:
-	rm *.o 
+	rm *.o hex
